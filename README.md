@@ -1,8 +1,6 @@
 ## Hi there 👋
 I'm currently pursuing a Bachelor's degree in Electrical Engineering from Indian Institute of Technology, Ropar . I'm interested in Competitive Programming,Web Development and Data Structures and Algorithms.
 
-**🌐 Socials:**
-https://www.linkedin.com/in/arnav-bansal-27b243238/
 <!--
 **arnavb2004/arnavb2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
