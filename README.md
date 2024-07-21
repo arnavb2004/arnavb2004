@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Arnav Bansal</h1>
 <h3>I'm currently pursuing a Bachelor's degree in Electrical Engineering from Indian Institute of Technology, Ropar .</h3> 
-<h2 align="center"> Enthusiast in algorithms, competitive programmer, creative problem solver, and active developer</h2>
+<h2 align="center"> Enthusiast in algorithms || Competitive Programmer || Creative Problem Solver || Active Developer</h2>
 <h3>I set out to solve complex problems because I am passionate about competitive programming and I find the elegance of mathematical ideas and methods to be fascinating. I try to create original solutions that push the envelope of what is feasible by having a creative attitude, being actively involved, and having a strong interest in development. Accompany me on this exciting journey towards coding mastery, and together, let's invent, develop, and construct an improved future.. </h3>
 
 
